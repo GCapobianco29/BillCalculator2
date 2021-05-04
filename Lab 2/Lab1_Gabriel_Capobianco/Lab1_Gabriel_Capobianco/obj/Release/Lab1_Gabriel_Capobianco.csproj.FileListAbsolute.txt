@@ -1,0 +1,4 @@
+C:\Users\655612\Documents\OOSD.CPRG-200.RAPID APP DEVELOPMENT\GabrielCapobianco_CPRG200_Lab1\Lab 1\Lab1_Gabriel_Capobianco\Lab1_Gabriel_Capobianco\obj\Release\Lab1_Gabriel_Capobianco.csprojAssemblyReference.cache
+C:\Users\655612\Documents\OOSD.CPRG-200.RAPID APP DEVELOPMENT\GabrielCapobianco_CPRG200_Lab1\Lab 1\Lab1_Gabriel_Capobianco\Lab1_Gabriel_Capobianco\obj\Release\Lab1_Gabriel_Capobianco.BillCalculator.resources
+C:\Users\655612\Documents\OOSD.CPRG-200.RAPID APP DEVELOPMENT\GabrielCapobianco_CPRG200_Lab1\Lab 1\Lab1_Gabriel_Capobianco\Lab1_Gabriel_Capobianco\obj\Release\Lab1_Gabriel_Capobianco.Properties.Resources.resources
+C:\Users\655612\Documents\OOSD.CPRG-200.RAPID APP DEVELOPMENT\GabrielCapobianco_CPRG200_Lab1\Lab 1\Lab1_Gabriel_Capobianco\Lab1_Gabriel_Capobianco\obj\Release\Lab1_Gabriel_Capobianco.csproj.GenerateResource.cache
